@@ -1,1 +1,17 @@
-{}
+{
+  "dev.epi": {
+    "anchoringServices": [
+      "https://dev.platesting.eu"
+    ],
+    "brickStorages": [
+    ]
+  },
+  "dev.epi.q1": {
+    "anchoringServices": [
+      "https://dev.platesting.eu"
+    ],
+    "brickStorages": [
+      "https://dev.platesting.eu"
+    ]
+  }
+}
