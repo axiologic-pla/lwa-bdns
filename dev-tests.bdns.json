@@ -1,17 +1,37 @@
 {
   "dev.epi": {
     "anchoringServices": [
-      "https://dev.platesting.eu"
+      "https://mah1.dev.pladevs.com",
+      "https://mah2.dev.pladevs.com"
     ],
     "brickStorages": [
     ]
   },
   "dev.epi.q1": {
     "anchoringServices": [
-      "https://dev.platesting.eu"
+      "https://mah1.dev.pladevs.com"
     ],
     "brickStorages": [
-      "https://dev.platesting.eu"
+      "https://mah1.dev.pladevs.com"
     ]
-  }
+  },
+  "dev.epi.q2": {
+    "anchoringServices": [
+      "https://mah2.dev.pladevs.com"
+    ],
+    "brickStorages": [
+      "https://mah2.dev.pladevs.com"
+    ]
+  },
+  "demo.epi": {
+    "anchoringServices": [
+      "https://demo.dev.pladevs.com"
+    ],
+    "brickStorages": [
+    ]
+  },
+  "demo.epi.q1": {
+    "anchoringServices": [
+      "https://demo.dev.pladevs.com"
+    ],
 }
