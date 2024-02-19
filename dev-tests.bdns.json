@@ -7,7 +7,7 @@
     "brickStorages": [
     ]
   },
-  "dev.epi.q1": {
+  "dev.epi.mah1": {
     "anchoringServices": [
       "https://mah1.dev.pladevs.com"
     ],
@@ -15,7 +15,7 @@
       "https://mah1.dev.pladevs.com"
     ]
   },
-  "dev.epi.q2": {
+  "dev.epi.mah2": {
     "anchoringServices": [
       "https://mah2.dev.pladevs.com"
     ],
