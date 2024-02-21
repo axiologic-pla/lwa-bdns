@@ -25,17 +25,17 @@
   },
   "demo.epi": {
     "anchoringServices": [
-      "https://demo.dev.pladevs.com"
+      "https://mah1.demo.pladevs.com"
     ],
     "brickStorages": [
     ]
   },
-  "demo.epi.q1": {
+  "demo.epi.mah1": {
     "anchoringServices": [
-      "https://demo.dev.pladevs.com"
+      "https://mah1.demo.pladevs.com"
     ],
     "brickStorages": [
-      "https://demo.dev.pladevs.com"
+      "https://mah1.demo.pladevs.com"
     ]
   }
 }
