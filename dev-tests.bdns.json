@@ -37,5 +37,20 @@
     "brickStorages": [
       "https://mah1.demo.pladevs.com"
     ]
+  },
+  "tst.epi": {
+    "anchoringServices": [
+      "https://q1.dev.pladevs.com"
+    ],
+    "brickStorages": [
+    ]
+  },
+  "tst.epi.q1": {
+    "anchoringServices": [
+      "https://q1.dev.pladevs.com"
+    ],
+    "brickStorages": [
+      "https://q1.dev.pladevs.com"
+    ]
   }
 }
