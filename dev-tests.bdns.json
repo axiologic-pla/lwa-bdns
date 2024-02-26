@@ -2,6 +2,7 @@
   "dev.epi": {
     "anchoringServices": [
       "https://mah1.dev.pladevs.com",
+      "https://reader-mah1.dev.pladevs.com",
       "https://mah2.dev.pladevs.com"
     ],
     "brickStorages": [
@@ -9,10 +10,12 @@
   },
   "dev.epi.mah1": {
     "anchoringServices": [
-      "https://mah1.dev.pladevs.com"
+      "https://mah1.dev.pladevs.com",
+      "https://reader-mah1.dev.pladevs.com"
     ],
     "brickStorages": [
-      "https://mah1.dev.pladevs.com"
+      "https://mah1.dev.pladevs.com",
+      "https://reader-mah1.dev.pladevs.com"
     ]
   },
   "dev.epi.mah2": {
