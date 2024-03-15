@@ -52,5 +52,20 @@
     "brickStorages": [
       "https://q1.dev.pladevs.com"
     ]
+  },
+  "testnet.dev": {
+    "anchoringServices": [
+      "https://c1.dev.pladevs.com"
+    ],
+    "brickStorages": [
+    ]
+  },
+  "testnet.dev.epi": {
+    "anchoringServices": [
+      "https://c1.dev.pladevs.com"
+    ],
+    "brickStorages": [
+      "https://c1.dev.pladevs.com"
+    ]
   }
 }
