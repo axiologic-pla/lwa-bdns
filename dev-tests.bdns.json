@@ -68,14 +68,14 @@
       "https://c1.dev.pladevs.com"
     ]
   },
-  "tester.dev": {
+  "tester.epi": {
     "anchoringServices": [
       "https://nah1.dev.pladevs.com"
     ],
     "brickStorages": [
     ]
   },
-  "tester.dev.epi": {
+  "tester.epi.nah1": {
     "anchoringServices": [
       "https://nah1.dev.pladevs.com"
     ],
