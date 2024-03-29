@@ -2,85 +2,57 @@
   "dev.epi": {
     "anchoringServices": [
       "https://reader-mah1.dev.pladevs.com",
-      "https://mah2.dev.pladevs.com"
-    ],
-    "brickStorages": [
+      "https://reader-mah2.dev.pladevs.com"
     ]
   },
   "dev.epi.mah1": {
     "anchoringServices": [
       "https://reader-mah1.dev.pladevs.com"
-    ],
-    "brickStorages": [
-      "https://reader-mah1.dev.pladevs.com"
     ]
   },
   "dev.epi.mah2": {
     "anchoringServices": [
-      "https://mah2.dev.pladevs.com"
-    ],
-    "brickStorages": [
-      "https://mah2.dev.pladevs.com"
+      "https://reader-mah2.dev.pladevs.com"
     ]
   },
   "demo.epi": {
     "anchoringServices": [
-      "https://mah1.demo.pladevs.com"
-    ],
-    "brickStorages": [
+      "https://reader-mah1.demo.pladevs.com"
     ]
   },
   "demo.epi.mah1": {
     "anchoringServices": [
-      "https://mah1.demo.pladevs.com"
-    ],
-    "brickStorages": [
-      "https://mah1.demo.pladevs.com"
+      "https://reader-mah1.demo.pladevs.com"
     ]
   },
   "tst.epi": {
     "anchoringServices": [
-      "https://q1.dev.pladevs.com"
-    ],
-    "brickStorages": [
+      "https://reader-q1.dev.pladevs.com"
     ]
   },
   "tst.epi.q1": {
     "anchoringServices": [
-      "https://q1.dev.pladevs.com"
-    ],
-    "brickStorages": [
-      "https://q1.dev.pladevs.com"
+      "https://reader-q1.dev.pladevs.com"
     ]
   },
   "testnet.dev": {
     "anchoringServices": [
-      "https://c1.dev.pladevs.com"
-    ],
-    "brickStorages": [
+      "https://reader-c1.dev.pladevs.com"
     ]
   },
   "testnet.dev.epi": {
     "anchoringServices": [
-      "https://c1.dev.pladevs.com"
-    ],
-    "brickStorages": [
-      "https://c1.dev.pladevs.com"
+      "https://reader-c1.dev.pladevs.com"
     ]
   },
   "tester.epi": {
     "anchoringServices": [
-      "https://nah1.dev.pladevs.com"
-    ],
-    "brickStorages": [
+      "https://reader-nah1.dev.pladevs.com"
     ]
   },
   "tester.epi.nah1": {
     "anchoringServices": [
-      "https://nah1.dev.pladevs.com"
-    ],
-    "brickStorages": [
-      "https://nah1.dev.pladevs.com"
+      "https://reader-nah1.dev.pladevs.com"
     ]
   }
 }
