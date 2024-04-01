@@ -54,5 +54,15 @@
     "anchoringServices": [
       "https://reader-nah1.dev.pladevs.com"
     ]
+  },
+  "temp.epi": {
+    "anchoringServices": [
+      "https://reader-a1.dev.pladevs.com"
+    ]
+  },
+  "temp.epi.a1": {
+    "anchoringServices": [
+      "https://reader-a1.dev.pladevs.com"
+    ]
   }
 }
