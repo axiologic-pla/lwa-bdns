@@ -57,12 +57,12 @@
   },
   "boss.epi": {
     "anchoringServices": [
-      "https://a1.dev.pladevs.com"
+      "https://reader-a1.dev.pladevs.com"
     ]
   },
   "boss.epi.b1": {
     "anchoringServices": [
-      "https://a1.dev.pladevs.com"
+      "https://reader-a1.dev.pladevs.com"
     ]
   }
 }
