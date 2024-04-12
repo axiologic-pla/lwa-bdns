@@ -47,12 +47,12 @@
   },
   "tester.epi": {
     "anchoringServices": [
-      "https://nah1.dev.pladevs.com"
+      "https://reader-nah1.dev.pladevs.com"
     ]
   },
   "tester.epi.nah1": {
     "anchoringServices": [
-      "https://nah1.dev.pladevs.com"
+      "https://reader-nah1.dev.pladevs.com"
     ]
   },
   "boss.epi": {
