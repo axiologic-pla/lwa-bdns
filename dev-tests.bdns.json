@@ -27,12 +27,12 @@
   },
   "tst.epi": {
     "anchoringServices": [
-      "https://reader-q1.dev.pladevs.com"
+      "https://reader-public-tst.dev.pladevs.com"
     ]
   },
   "tst.epi.q1": {
     "anchoringServices": [
-      "https://reader-q1.dev.pladevs.com"
+      "https://reader-public-tst.dev.pladevs.com"
     ]
   },
   "testnet.dev": {
@@ -53,36 +53,6 @@
   "tester.epi.nah1": {
     "anchoringServices": [
       "https://reader-nah1.dev.pladevs.com"
-    ]
-  },
-  "boss.epi": {
-    "anchoringServices": [
-      "https://reader-a1.dev.pladevs.com",
-      "https://reader-a2.dev.pladevs.com",
-      "https://reader-a3.dev.pladevs.com",
-      "https://reader-a4.dev.pladevs.com",
-      "https://a4.dev.pladevs.com"
-    ]
-  },
-  "boss.epi.b1": {
-    "anchoringServices": [
-      "https://reader-a1.dev.pladevs.com"
-    ]
-  },
-  "boss.epi.b2": {
-    "anchoringServices": [
-      "https://reader-a2.dev.pladevs.com"
-    ]
-  },
-  "boss.epi.b3": {
-    "anchoringServices": [
-      "https://reader-a3.dev.pladevs.com"
-    ]
-  },
-  "boss.epi.b4": {
-    "anchoringServices": [
-      "https://reader-a4.dev.pladevs.com",
-      "https://a4.dev.pladevs.com"
     ]
   }
 }
