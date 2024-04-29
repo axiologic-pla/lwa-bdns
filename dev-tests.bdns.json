@@ -1,58 +1,58 @@
 {
   "dev.epi": {
     "anchoringServices": [
-      "https://reader-mah1.dev.pladevs.com",
-      "https://reader-mah2.dev.pladevs.com"
+      "https://internal-mah1.dev.pladevs.com",
+      "https://internal-mah2.dev.pladevs.com"
     ]
   },
   "dev.epi.mah1": {
     "anchoringServices": [
-      "https://reader-mah1.dev.pladevs.com"
+      "https://internal-mah1.dev.pladevs.com"
     ]
   },
   "dev.epi.mah2": {
     "anchoringServices": [
-      "https://reader-mah2.dev.pladevs.com"
+      "https://internal-mah2.dev.pladevs.com"
     ]
   },
   "demo.epi": {
     "anchoringServices": [
-      "https://reader-mah1.demo.pladevs.com"
+      "https://internal-mah1.demo.pladevs.com"
     ]
   },
   "demo.epi.mah1": {
     "anchoringServices": [
-      "https://reader-mah1.demo.pladevs.com"
+      "https://internal-mah1.demo.pladevs.com"
     ]
   },
   "tst.epi": {
     "anchoringServices": [
-      "https://public-tst.dev.pladevs.com"
+      "https://internal-tst.dev.pladevs.com"
     ]
   },
   "tst.epi.q1": {
     "anchoringServices": [
-      "https://public-tst.dev.pladevs.com"
+      "https://internal-tst.dev.pladevs.com"
     ]
   },
   "testnet.dev": {
     "anchoringServices": [
-      "https://reader-c1.dev.pladevs.com"
+      "https://internal-c1.dev.pladevs.com"
     ]
   },
   "testnet.dev.epi": {
     "anchoringServices": [
-      "https://reader-c1.dev.pladevs.com"
+      "https://internal-c1.dev.pladevs.com"
     ]
   },
   "tester.epi": {
     "anchoringServices": [
-      "https://reader-nah1.dev.pladevs.com"
+      "https://internal-nah1.dev.pladevs.com"
     ]
   },
   "tester.epi.nah1": {
     "anchoringServices": [
-      "https://reader-nah1.dev.pladevs.com"
+      "https://internal-nah1.dev.pladevs.com"
     ]
   }
 }
