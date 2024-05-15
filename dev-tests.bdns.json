@@ -35,12 +35,12 @@
       "https://internal-tst.dev.pladevs.com"
     ]
   },
-  "testnet.dev": {
+  "testnet.epi": {
     "anchoringServices": [
       "https://internal-c1.dev.pladevs.com"
     ]
   },
-  "testnet.dev.epi": {
+  "testnet.epi.c1": {
     "anchoringServices": [
       "https://internal-c1.dev.pladevs.com"
     ]
