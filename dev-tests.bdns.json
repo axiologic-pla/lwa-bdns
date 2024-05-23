@@ -37,12 +37,12 @@
   },
   "testnet.epi": {
     "anchoringServices": [
-      "https://internal-c1.dev.pladevs.com"
+      "https://c1.dev.pladevs.com"
     ]
   },
   "testnet.epi.c1": {
     "anchoringServices": [
-      "https://internal-c1.dev.pladevs.com"
+      "https://c1.dev.pladevs.com"
     ]
   },
   "tester.epi": {
