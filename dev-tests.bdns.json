@@ -17,12 +17,12 @@
   },
   "demo.epi": {
     "anchoringServices": [
-      "https://mah1.demo.pladevs.com"
+      "https://reader-mah1.demo.pladevs.com"
     ]
   },
   "demo.epi.mah1": {
     "anchoringServices": [
-      "https://mah1.demo.pladevs.com"
+      "https://reader-mah1.demo.pladevs.com"
     ]
   },
   "tst.epi": {
