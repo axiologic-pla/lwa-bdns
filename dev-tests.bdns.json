@@ -27,12 +27,12 @@
   },
   "tst.epi": {
     "anchoringServices": [
-      "https://reader-tst.dev.pladevs.com"
+      "https://tst.dev.pladevs.com"
     ]
   },
   "tst.epi.q1": {
     "anchoringServices": [
-      "https://reader-tst.dev.pladevs.com"
+      "https://tst.dev.pladevs.com"
     ]
   },
   "testnet.epi": {
