@@ -37,7 +37,8 @@
   },
   "testnet.epi": {
     "anchoringServices": [
-      "https://c1.dev.pladevs.com"
+      "https://c1.dev.pladevs.com",
+      "https://tst.dev.pladevs.com"
     ]
   },
   "testnet.epi.c1": {
@@ -45,14 +46,9 @@
       "https://c1.dev.pladevs.com"
     ]
   },
-  "tester.epi": {
+  "testnet.epi.c2": {
     "anchoringServices": [
-      "https://nah1.dev.pladevs.com"
-    ]
-  },
-  "tester.epi.nah1": {
-    "anchoringServices": [
-      "https://nah1.dev.pladevs.com"
+      "https://tst.dev.pladevs.com"
     ]
   }
 }
