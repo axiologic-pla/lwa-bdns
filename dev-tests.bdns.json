@@ -38,7 +38,9 @@
   "testnet.epi": {
     "anchoringServices": [
       "https://c1.dev.pladevs.com",
-      "https://tst.dev.pladevs.com"
+      "https://mah2.dev.pladevs.com",
+      "https://mah3.dev.pladevs.com",
+      "https://mah4.dev.pladevs.com"
     ]
   },
   "testnet.epi.c1": {
@@ -46,9 +48,19 @@
       "https://c1.dev.pladevs.com"
     ]
   },
-  "testnet.epi.c2": {
+  "testnet.epi.mah2": {
     "anchoringServices": [
-      "https://tst.dev.pladevs.com"
+      "https://mah2.dev.pladevs.com"
+    ]
+  },
+  "testnet.epi.mah3": {
+    "anchoringServices": [
+      "https://mah3.dev.pladevs.com"
+    ]
+  },
+  "testnet.epi.mah4": {
+    "anchoringServices": [
+      "https://mah4.dev.pladevs.com"
     ]
   }
 }
